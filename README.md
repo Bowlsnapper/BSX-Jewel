@@ -1,8 +1,7 @@
 # BSX-Jewel
 Install instructions for the BSX-Jewel
 
-<img src="https://github.com/Bowlsnapper/BSX-Jewel/blob/main/PXL_20250827_233642128.MP.jpg" width=49% height=49%>
-Go ahead and open your case up. Use a T25 screwdriver to remove them.
+<img src="https://github.com/Bowlsnapper/BSX-Jewel/blob/main/PXL_20250827_233642128.MP.jpg" width=49% height=49%> Go ahead and open your case up. Use a T25 screwdriver to remove them.
 
 <img src="https://github.com/Bowlsnapper/BSX-Jewel/blob/main/PXL_20250827_234124070.jpg" width=49% height=49%>
 Start the process of removing your RF shield. It's okay. You will not hurt anything and you will need to do this to get it out of the way.
