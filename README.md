@@ -20,7 +20,7 @@ Go ahead and drill a hole in your lid and then extend that hole to the inner-mos
 
 <img src="https://github.com/Bowlsnapper/BSX-Jewel/blob/main/PXL_20250828_002736081.MP.jpg" width=49% height=49%>
 <img src="https://github.com/Bowlsnapper/BSX-Jewel/blob/main/PXL_20250828_065714333.MP.jpg" width=49% height=49%>
-Go ahead and plug the 3P included JST cable into your BSX modchip. If you do not have a BSX chip, but you are cool enough to buy this Jewel anyway, there are alternate solder points on teh rear, which will show through
+Go ahead and plug the 3P included JST cable into your BSX modchip. If you do not have a BSX chip, but you are cool enough to buy this Jewel anyway, there are alternate solder points on the rear, which will show through
 
 
 <img src="https://github.com/Bowlsnapper/BSX-Jewel/blob/main/PXL_20250828_071153859.jpg" width=49% height=49%>
